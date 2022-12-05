@@ -64,6 +64,7 @@ class UserControllerTest {
         userDtoList = new ArrayList<>();
         userDtoList.add(userDto);
         userDtoList.add(userDto2);
+
     }
 
     @Test
